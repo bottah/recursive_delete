@@ -2,7 +2,7 @@ The request for an approach to recursively remove all files in a directory, with
 
 Usage: call delete directly, with space delimited parameters
 
-EXAMPLE: python recursive_delete.py delete file_ext start_dir
+EXAMPLE: python recursive_delete.py delete pyc
 
 ... or if you call recursive_delete.py without parameters, it'll prompt you in an interactive shell-type-thing.
 
