@@ -3,6 +3,7 @@ could be accomplished in two lines of code... the rest of the script is an attem
 demonstrate additional aptitude, albeit possibly just a bit overly pragmatic.
 
 Usage: call delete directly, with space delimited parameters
+
 EXAMPLE: python recursive_delete.py delete file_ext start_dir
 
 ... or if you call recursive_delete.py without parameters, it'll prompt you in an interactive shell-type-thing.
