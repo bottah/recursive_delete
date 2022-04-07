@@ -6,4 +6,4 @@ EXAMPLE: python recursive_delete.py delete pyc
 
 ... or if you call recursive_delete.py without parameters, it'll prompt you in an interactive shell-type-thing.
 
-NOTE: To actually delete anything, you'll need to change dry_run to something other than True
+NOTE: To actually delete anything, you'll need to change dry_run to False
