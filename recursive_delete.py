@@ -118,4 +118,4 @@ if __name__ == '__main__':
         print('\n... or you can enter the parameters here (ctrl+c to quit):')
         file_ext = input('file_ext: ')
         start_dir = input('start_dir: [.] ')
-        recursive_delete(file_ext, start_dir)
+        delete(file_ext, start_dir)
