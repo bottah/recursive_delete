@@ -7,3 +7,5 @@ Usage: call delete directly, with space delimited parameters
 EXAMPLE: python recursive_delete.py delete file_ext start_dir
 
 ... or if you call recursive_delete.py without parameters, it'll prompt you in an interactive shell-type-thing.
+
+NOTE: To actually delete anything, you'll need to change dry_run to something other than True
